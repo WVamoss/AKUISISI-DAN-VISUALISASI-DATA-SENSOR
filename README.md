@@ -1,5 +1,5 @@
 
-# Akuisisi dan Visualisasi Data Sensor (Arduino)
+# Akuisisi dan Visualisasi Data Sensor
 
 Proyek ini bertujuan untuk mengumpulkan data dari berbagai jenis sensor menggunakan **Arduino** dan kemudian memvisualisasikan data tersebut di komputer. Dengan menggunakan perangkat keras seperti Arduino dan berbagai sensor, proyek ini memungkinkan pengguna untuk memperoleh data sensor secara real-time dan menampilkan hasilnya dalam bentuk visual yang mudah dipahami.
 
